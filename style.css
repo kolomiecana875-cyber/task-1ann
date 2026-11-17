@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(185, 189, 194);
+}
+
+.container {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
+  max-width: 1000px;
+}
+.title {
+  text-align: center;
+  color: rgb(28, 9, 235);
+}
+
+.subtitle {
+  color: rgb(168, 143, 195);
+}
+
+.text-cursiv {
+  font-style: italic;
+}
